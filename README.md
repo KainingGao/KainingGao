@@ -3,7 +3,7 @@
 - 🌱 I’m currently a junior computer science major in Iowa State University
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: gaokaining22@gmail.com
-- Go look at my personal website at www.kngao.com (still in progress)
+
 <!---
 KainingGao/KainingGao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
